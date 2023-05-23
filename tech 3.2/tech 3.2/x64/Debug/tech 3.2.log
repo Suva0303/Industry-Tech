@@ -1,0 +1,4 @@
+﻿  rational.cpp
+C:\Users\kaira\OneDrive\Рабочий стол\C++\Технологии индустрильного программирования\tech 3.2\tech 3.2\rational.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\kaira\OneDrive\Рабочий стол\C++\Технологии индустрильного программирования\tech 3.2\tech 3.2\rational.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  tech 3.2.vcxproj -> C:\Users\kaira\OneDrive\Рабочий стол\C++\Технологии индустрильного программирования\tech 3.2\x64\Debug\tech 3.2.exe
