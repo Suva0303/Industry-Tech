@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include<iostream>
 #include <cmath>
 #include <locale>
 using namespace std;
@@ -138,7 +138,7 @@ public:
 		else if (D == 0) {
 			double x;
 			x = ((-1 * B) / (2 * A));
-			cout << "Уравнение имеет единственный корень x = " << x << endl;
+			cout << "Уравнение имеет единственный  корень x = " << x << endl;
 		}
 		else {
 			cout << "Дискриминант меньше 0, корней нет" << endl;
@@ -219,7 +219,7 @@ public:
 int main() {
 	setlocale(LC_ALL, "Russian");
 	int n;
-	cout << "Введите количество уравнений";
+	cout << "Введите количество уравнений желаемых уравнений: ";
 	cin >> n;
 	for (n; n > 0; n--) {
 		cout << "Введите коэффициенты для " << n << " - ого уравнения" << endl;
